@@ -1,0 +1,5 @@
+primp
+colorama
+Pillow
+websockets
+python-socks
